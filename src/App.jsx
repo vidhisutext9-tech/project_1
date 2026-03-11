@@ -5,7 +5,7 @@ const App = () => {
 
   const data = [
   {
-    "photo": "images/user1.jpg",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg",
     "name": "Rahul Sharma",
     "username": "rahul_23",
     "bio": "Frontend developer and tech enthusiast.",
@@ -14,7 +14,7 @@ const App = () => {
     "joinedAt": "March 2023"
   },
   {
-    "photo": "images/user2.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg",
     "name": "Priya Patel",
     "username": "priya_codes",
     "bio": "UI/UX designer who loves creativity.",
@@ -23,7 +23,7 @@ const App = () => {
     "joinedAt": "July 2022"
   },
   {
-    "photo": "images/user3.jpg",
+    "photo": "https://randomuser.me/api/portraits/men/3.jpg",
     "name": "Amit Verma",
     "username": "amit_dev",
     "bio": "JavaScript and Node.js developer.",
@@ -32,7 +32,7 @@ const App = () => {
     "joinedAt": "January 2024"
   },
   {
-    "photo": "images/user4.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/4.jpg",
     "name": "Sneha Joshi",
     "username": "sneha_art",
     "bio": "Digital artist and creative thinker.",
@@ -41,7 +41,7 @@ const App = () => {
     "joinedAt": "November 2023"
   },
   {
-    "photo": "images/user5.jpg",
+    "photo": "https://randomuser.me/api/portraits/men/5.jpg",
     "name": "Karan Mehta",
     "username": "karan_tech",
     "bio": "Full stack developer and problem solver.",
@@ -50,7 +50,7 @@ const App = () => {
     "joinedAt": "May 2022"
   },
   {
-    "photo": "images/user6.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/6.jpg",
     "name": "Neha Shah",
     "username": "neha_shah",
     "bio": "Photographer capturing beautiful moments.",
@@ -59,7 +59,7 @@ const App = () => {
     "joinedAt": "August 2023"
   },
   {
-    "photo": "images/user7.jpg",
+    "photo": "https://randomuser.me/api/portraits/men/7.jpg",
     "name": "Arjun Singh",
     "username": "arjun_play",
     "bio": "Gaming lover and streamer.",
@@ -68,7 +68,7 @@ const App = () => {
     "joinedAt": "February 2024"
   },
   {
-    "photo": "images/user8.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/8.jpg",
     "name": "Pooja Desai",
     "username": "pooja_design",
     "bio": "Graphic designer and branding expert.",
@@ -77,7 +77,7 @@ const App = () => {
     "joinedAt": "October 2022"
   },
   {
-    "photo": "images/user9.jpg",
+    "photo": "https://randomuser.me/api/portraits/men/9.jpg",
     "name": "Rohit Kumar",
     "username": "rohit_k",
     "bio": "Backend developer and database specialist.",
@@ -86,7 +86,7 @@ const App = () => {
     "joinedAt": "December 2021"
   },
   {
-    "photo": "images/user10.jpg",
+    "photo": "https://randomuser.me/api/portraits/women/10.jpg",
     "name": "Ananya Gupta",
     "username": "ananya_writes",
     "bio": "Content writer and blogger.",
